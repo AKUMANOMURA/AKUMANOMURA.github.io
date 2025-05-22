@@ -1,0 +1,20 @@
+.bannerss
+{
+    background-image: url('noche.jpg'); /* Usa una ruta válida */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: white;
+}
+.Historia
+{
+    text-align: center;
+    padding: 2%;
+    background-color: #3e3a3a;
+}
+.proximamente
+{
+    text-align: center;
+    padding: 2%;
+    background-color: #232323;
+}
